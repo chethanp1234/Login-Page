@@ -6,4 +6,4 @@ Its a simple login page using HTML and CSS..
 
 #note : Start from the wel.html page!!
 
-Click here to preview :
+Click here to preview : https://chethanp1234.github.io/Login-Page/
